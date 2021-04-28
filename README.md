@@ -17,7 +17,7 @@ Producto más caro: Frutillas<br>
 Producto más barato: Coca-Cola<br>
 </p>
 
-<p>La solución debe cumplir con los siguientes requisitos:</p>
+<p><strong>La solución debe cumplir con los siguientes requisitos:</strong></p>
 <p>
 Diseñar una solución orientada a objetos.<br>
 La salida es por consola y exactamente como se requiere.<br>
