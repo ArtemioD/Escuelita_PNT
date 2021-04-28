@@ -25,7 +25,7 @@ Producto más barato: Coca-Cola<br>
 -El algoritmo usado para la impresión no tiene que depender de la cantidad o tipo de productos.<br>
 -Para mostrar el mayor / menor, utilizar la interfaz Comparable.<br>
 -Para imprimir por pantalla, sobrescribir el método toString()<br>
-<p><strong>Cualquier solución que no cumpla con estos requisitos será descartada, asi que revisa bien!<strong></p>
+<p><strong>Cualquier solución que no cumpla con estos requisitos será descartada, asi que revisa bien!</strong></p>
 <p>Por favor, enviar un ZIP con los fuentes de la solución. Cualquier consulta no duden en preguntar a contacto@somospnt.com</p>
 
 <p>Recurso de ayuda<br>
