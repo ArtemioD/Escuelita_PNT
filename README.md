@@ -9,7 +9,7 @@ Crear un programa cuyo punto de entrada sea un main en donde, al ejecutarse, se 
 
 <p>
 Nombre: Coca-Cola Zero /// Litros: 1.5 /// Precio: $20<br>
-Nombre: Coca-Cola /// Litros: 1.5 /// Precio: $18<br><br>
+Nombre: Coca-Cola /// Litros: 1.5 /// Precio: $18<br>
 Nombre: Shampoo Sedal /// Contenido: 500ml /// Precio: $19<br>
 Nombre: Frutillas /// Precio: $64 /// Unidad de venta: kilo<br>
 =============================<br>
